@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e47d87aa-cda6-48f0-816c-b94a25dab996" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Geeks HW/DZ2_nikita_38-02/.idea/DZ2_B.Aidana_14-02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geeks HW/DZ5_nikita_38_02/.idea/lesson_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geeks HW/DZ6_nikita_38_02/.idea/lesson_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geeks HW/DZ7_nikita_38_02/.idea/lesson_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geeks HW/DZ8_nikita_38_02/.idea/lesson_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geeks/lesson_5/.idea/lesson_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geeks/lesson_6/.idea/lesson_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geeks/lesson_7/.idea/lesson_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geeks/lesson_8/.idea/lesson_8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geeks4_test1/.idea/Geeks4_test1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geeks4_test1/test/src/page/mainPage/MainPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geeks4_test1/test/src/page/mainPage/MainPage.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geeks4_test1/test/src/page/mainPage/image/Group 10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geeks_2/.idea/Geeks_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geeks_2/lesson_5/.idea/lesson_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geeks_2/lesson_6/.idea/lesson_6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geeks_2/lesson_7/.idea/lesson_7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geeks_2/test1/.idea/test1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geeks_3/lesson_2/.idea/lesson_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geeks_3/lesson_3/.idea/lesson_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geeks_3/lesson_4/.idea/lesson_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geeks_3/lesson_6/.idea/lesson_6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geeks_3/lesson_7/.idea/lesson_7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geeks_3/test/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geeks_3/test2/.idea/test2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/src/redux/action.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/src/redux/contactsReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/src/redux/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/src/redux/types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/.idea/test2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="hw1" />
+        <entry key="$PROJECT_DIR$" value="hw1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2kgZPcVV2YPKjRYBm3f1YsFZXuL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.18034.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e47d87aa-cda6-48f0-816c-b94a25dab996" name="Changes" comment="" />
+      <created>1723707158548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723707158548</updated>
+      <workItem from="1723707162504" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
